@@ -1,0 +1,1 @@
+result.sort(Comparator.comparing(Product::getName)); // Sắp xếp theo tên
